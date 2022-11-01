@@ -1,0 +1,40 @@
+button
+{
+    margin-top: 50px;
+    padding: 8px;
+    border-radius: 10px;
+    width: 140px;
+    background-color: rgb(53, 53, 94);
+    font-size: 25px;
+}
+
+h3
+{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a
+{
+    text-decoration: none;
+    color: white;
+}
+
+body
+{
+    background-image: linear-gradient(120deg, #a6c0fe 0%, #f68084 100%);
+    background-position: center;
+    background-size: cover;
+
+}
+
+h2
+{
+    position: fixed;
+    bottom: 0%;
+}
+
+canvas
+{
+    margin-top: 50px;
+}
